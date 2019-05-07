@@ -27,12 +27,7 @@ Two Qwiic connectors are set up for direct daisy-chaining with the attached modu
 
 #### Links
 
-* [Learn more about ZIO](https://www.smart-prototyping.com/Zio-Introduction.html)
-* [Learn more about Qwiic](https://www.smart-prototyping.com/qwiic.html)
 * [Eagle files](https://github.com/ZIOCC/Qwiic_Adapter)
-
-
-
 
 
 
